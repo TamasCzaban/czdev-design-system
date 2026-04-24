@@ -1,0 +1,10 @@
+{
+  "name": "@czdev/rules",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Markdown ruleset for the Editorial Organicism system — design principles Claude and humans read before making UI decisions.",
+  "license": "MIT",
+  "files": [
+    "*.md"
+  ]
+}

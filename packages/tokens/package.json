@@ -1,0 +1,17 @@
+{
+  "name": "@czdev/tokens",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Design tokens for CZ Dev's Editorial Organicism system — primitives, semantic, and component-level tokens compiled via Style Dictionary.",
+  "license": "MIT",
+  "main": "dist/ts/index.js",
+  "types": "dist/ts/index.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "build": "echo 'TBD: Phase 1 — Style Dictionary build'",
+    "clean": "rm -rf dist"
+  }
+}
